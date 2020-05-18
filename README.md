@@ -1,2 +1,2 @@
 # samplemaven
-testing
+testing Hello
